@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&family=Ubuntu&family=Varela+Round&display=swap');
+/* font-family: 'Rubik', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Varela Round', sans-serif; */
+*{
+    font-family: 'Ubuntu', sans-serif;
+    color: #183153;
+}
+.navbar ul li{
+    padding: 10px;
+   
+}
+.headings{
+    color: #183153;
+    font-weight: 800;
+    /* font-family: 'Rubik', sans-serif; */
+}
+.lead{
+    color: #183153;
+}
+.FontAwsomePro{
+    position: relative;
+    cursor: pointer;
+}
+.rocket{
+    position:absolute;
+    left: 0;
+    
+}
+.container-fluid{
+    background: #F0F1F3;
+}
+.LTS{
+    background: #C3C6D1;
+}
+.card-head{
+    background: #183153;
+}
+.button{
+    background: #146EBE;
+    padding: 5px;
+     color: #183153;
+     /* margin-left: 10%; */
+}
+.button:hover{
+    background: transparent;
+    transition-duration: 2s;
+}
+.button2{
+    background-color: transparent;
+    margin-left: 4%;
+}
+.button2:hover{
+   background: rgb(238, 233, 233);
+   transition-duration: 1s;
+}
+.subsetter{
+    background: #183153;
+    color: white;
+}
+.MacVersion{
+    color: purple;
+}
+.card{
+    cursor: pointer;
+}
+.desktopVersion{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color:blue;
+}
+footer{
+    background:#183153;
+    
+}
